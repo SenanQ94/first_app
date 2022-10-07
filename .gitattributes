@@ -1,11 +1,1 @@
-*.cmake linguist-detectable=false
-*.cpp linguist-detectable=false
-*.dart linguist-detectable=true
-
-*.swift linguist-detectable=false
-*.kt linguist-detectable=false
-*.h linguist-detectable=false
-
-windows/* -linguist-detectable
-
-
+*.dart linguist-vendored
