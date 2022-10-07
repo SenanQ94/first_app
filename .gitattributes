@@ -1,1 +1,9 @@
-project-docs/* linguist-documentation
+android/* linguist-vendored
+build/* linguist-vendored
+build/* linguist-vendored
+linux/* linguist-vendored
+macos/* linguist-vendored
+test/* linguist-vendored
+web/* linguist-vendored
+windows/* linguist-vendored
+
