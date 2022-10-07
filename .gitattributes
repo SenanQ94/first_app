@@ -5,3 +5,4 @@
 *.kt linguist-detectable=false
 *.h linguist-detectable=false
 *.cpp linguist-detectable=false
+windows/* linguist-vendored
